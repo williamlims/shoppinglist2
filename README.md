@@ -18,7 +18,7 @@ organizadas e eficientes!
 
 ## Apresentação usando Realtime Database (Firebase)
 
-![video](https://github.com/user-attachments/assets/5dbcf6a9-2b2f-493c-901e-f0b2f37435d7) 
+https://github.com/user-attachments/assets/5dbcf6a9-2b2f-493c-901e-f0b2f37435d7 
 
 
 ## Telas do aplicativo
